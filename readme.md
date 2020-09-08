@@ -14,7 +14,7 @@ Após clonar o repositório, será necessário baixar as dependências do projet
 npm install
 ```
 
-## Execussão
+## Execução
 
 Para executar o projeto na sua máquina local, basta abrir o terminal na pasta do projeto e executar o comando abaixo:
 
